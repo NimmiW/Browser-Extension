@@ -1,2 +1,2 @@
 # Browser-Extension
-browser extension to log active tabs 
+browser extension to log active tabs - example
